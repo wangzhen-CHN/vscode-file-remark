@@ -1,8 +1,8 @@
 {
   	"name": "file-remark",
 	"displayName": "File Remark",
-	"description": "vscode文件备注插件",
-	"version": "0.0.5",
+	"description": "文件备注插件 File Remark Plugin",
+	"version": "0.0.7",
 	"publisher":"wang-zhen",
 	"author":"wang zhen",
 	"icon": "icon.png",
