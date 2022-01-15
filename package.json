@@ -1,8 +1,8 @@
 {
   	"name": "file-remark",
 	"displayName": "File Remark",
-	"description": "文件备注插件 File Remark Plugin",
-	"version": "0.0.8",
+	"description": "Remark on the file&folder",
+	"version": "0.0.9",
 	"publisher":"wang-zhen",
 	"author":"wang zhen",
 	"icon": "icon.png",
